@@ -20,7 +20,8 @@ Here's a list of guilds already in the works:
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
 **🥾 Hike Club ([#outernet-hike-club](https://hackclub.slack.com/archives/C058JR94NJZ))**: while at base camp, you'll program hardware ready for a hike. We'll need to navigate; maybe you could make a handheld compass with a Pico and a magnetometer? Want to track your fitness? Perhaps hack a pedometer to interface with an Arduino. Have you got an eye for data science? Perhaps use a Raspberry Pi to monitor atmospheric conditions on the way up, and track them via a web app on your phone! Once we're up, we'll analyse all the data we gathered and make a presentation with our findings ready to report back to camp.
-<!-- (Raspberry Pi Pico x3=$12, [Tiny OLED](https://www.adafruit.com/product/938)x3=$60, [Magnetometer](https://www.adafruit.com/product/5579)x2=$12, [Accelerometer](https://www.adafruit.com/product/4438)x3=$36, Pi Zero W x1=$15, [Pulse Sensor](https://www.adafruit.com/product/1093)x2=$50, [Altitude/Temperature](https://www.adafruit.com/product/1893)x3=$30, [ESP32-S3 Feather](https://www.adafruit.com/product/5477)x2=$35) -->
+
+
 
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
@@ -52,6 +53,15 @@ Here's a list of guilds already in the works:
 
 **💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
 
+**📻 Outernet Radio (W2H) ([#outernet-radio](https://hackclub.slack.com/archives/C058XFV7MCK))**: We will set up an amateur radio station under the special event callsign W2H, and operate throughout the weekend.
+
+**🌌 Outernet Space Agency ([#outernet-space-agency](https://hackclub.slack.com/archives/C059DHPQBUG))**: The Outernet Space Agency is a fully-functional* space agency that will be operating throughout Outernet! We'll build rockets, track the stars and satellites, and participate in much more space nerdiness!
+
+**🎬 Film & Movies ([#outernet-film-and-movies](https://hackclub.slack.com/archives/C05EQQ07119))**: Ready for a reel adventure! Immerse yourself into the mesmerizing realm of film, either sitting back and enjoying them or becoming the director yourself.
+
+**🧘‍♀️ Orpheus Legion ([#outernet-orpheus-legion](https://hackclub.slack.com/archives/C05FQ0EE1SM))**: Step away from the chaos of the hackathon bustle and step inside a sanctuary of tranquility and inner harmony. Commune peacefully with other hack clubbers as you destress while coloring, doing yoga, making friendship bracelets, reading, or just *breathing*.
+
+** ♻️ Eco-Pioneers**: Our guild is dedicated to protecting and preserving the environment around the campgrounds; eco-pioneers are passionate about environmental science and innovation. We plan on creating a video collage with the wildlife we come across, working on our environmental engineering projects like bee hives, bird feeders, and solar-powered devices.
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
